@@ -66,3 +66,8 @@ transform: rotate(25deg);
 .icon:hover{
   color: #ff4c68;
 }
+
+/*Testimonial Section*/
+.testimonials{
+  background-color: red;
+}
